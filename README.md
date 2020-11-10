@@ -11,7 +11,7 @@ onde estou desenvolvendo um aplicativo em React Native com Realidade Aumentada (
 :joystick: Amo jogos. Atualmente os meus preferidos são Overwatch e Watch Dogs<br>
 
 
-<br><br>
+<br><br><br>
 #### Para mais informações entre em contato comigo:
 [![Gmail Badge](https://img.shields.io/badge/-martins.gabrieli.07.almeida@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martins.gabrieli.07.almeida@gmail.com)](mailto:martins.gabrieli.07.almeida@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Gabrieli%20Martins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieli-martins-9881ab157/)](https://www.linkedin.com/in/gabrieli-martins-9881ab157/) 
