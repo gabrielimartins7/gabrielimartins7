@@ -3,13 +3,16 @@
 Meu nome é Gabrieli Martins, tenho 22 anos sou apaixonada por front-end e por todo o universo da tecnologia. :man_technologist:
 Sou estudante de Gestão de Tecnologia da Informação pela FATEC. <br>
 Atualmente estou numa jornada no Instituto Aeronautica e Espaço - IAE
-onde estou desenvolvendo um aplicativo em React Native com Realidade Aumentada (AR) para facilitar a vizualização e processamento de dados.
+onde estou desenvolvendo um aplicativo em Realidade Aumentada (AR) para facilitar a vizualização e processamento de dados.
 
 <br><br>
 
-:pushpin: Atualmente estou aprofundando meu conhecimento em *React* e *Realidade Aumentada*<br>
+:pushpin: Atualmente estou aprofundando meu conhecimento em *ReactJs* e *Realidade Aumentada*<br>
+:neckbeard: Me arriscando na aprendizagem em *NodeJs*
 :vulcan_salute: Sou nerd desde que me entendo por gente **Que a força esteja com você**<br>
-:joystick: Amo jogos. Atualmente os meus preferidos são Overwatch e Watch Dogs<br>
+:joystick: Amo jogos. Atualmente os meus preferidos são Overwatch e Watch Dogs<br><br>
+
+:star:Também posso te auxiliar em UX & UI
 
 
 <br><br>
