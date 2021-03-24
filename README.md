@@ -8,7 +8,7 @@ onde estou desenvolvendo um aplicativo em Realidade Aumentada (AR) para facilita
 <br><br>
 
 :pushpin: Atualmente estou aprofundando meu conhecimento em *ReactJs* e *Realidade Aumentada*<br>
-:neckbeard: Me arriscando na aprendizagem em *NodeJs*
+:neckbeard: Me arriscando na aprendizagem em *NodeJs*<br>
 :vulcan_salute: Sou nerd desde que me entendo por gente **Que a força esteja com você**<br>
 :joystick: Amo jogos. Atualmente os meus preferidos são Overwatch e Watch Dogs<br><br>
 
