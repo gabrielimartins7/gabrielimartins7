@@ -2,8 +2,8 @@
 <br>
 Meu nome é Gabrieli Martins, tenho 22 anos sou apaixonada por front-end e por todo o universo da tecnologia. :man_technologist:
 Sou estudante de Gestão de Tecnologia da Informação pela FATEC. <br>
-Atualmente estou numa jornada no Instituto Aeronautica e Espaço - IAE
-onde estou desenvolvendo um aplicativo em Realidade Aumentada (AR) para facilitar a vizualização e processamento de dados.
+Atualmente estou numa jornada na Deltatic
+onde estou desenvolvendo aplicações em ReactJs.
 
 <br><br>
 
