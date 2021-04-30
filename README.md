@@ -2,12 +2,12 @@
 <br>
 Meu nome é Gabrieli Martins, tenho 22 anos sou apaixonada por front-end e por todo o universo da tecnologia. :man_technologist:
 Sou estudante de Gestão de Tecnologia da Informação pela FATEC. <br>
-Atualmente estou numa jornada na Deltatic
-onde estou desenvolvendo aplicações em ReactJs.
+Atualmente estou numa jornada na EasyFarm
+onde estou desenvolvendo aplicativos em React Native.
 
 <br><br>
 
-:pushpin: Atualmente estou aprofundando meu conhecimento em **ReactJs** e **Realidade Aumentada**<br>
+:pushpin: Atualmente estou aprofundando meu conhecimento em **ReactJs** e **React Native**<br>
 :neckbeard: Me arriscando na aprendizagem em **NodeJs**<br>
 :vulcan_salute: Sou nerd desde que me entendo por gente **Que a força esteja com você**<br>
 :joystick: Amo jogos. Atualmente os meus preferidos são Overwatch e Watch Dogs<br><br>
