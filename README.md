@@ -9,7 +9,7 @@ onde estou desenvolvendo aplicativos em React Native.
 <br><br>
 
 :pushpin: Atualmente estou aprofundando meu conhecimento em **ReactJs** e **React Native**<br>
-:neckbeard: Me arriscando na aprendizagem em **NodeJs**<br>
+:neckbeard: Me arriscando na aprendizagem em **NodeJs e Angular**<br>
 :vulcan_salute: Sou nerd desde que me entendo por gente **Que a força esteja com você**<br>
 :joystick: Amo jogos. Atualmente os meus preferidos são Overwatch e Watch Dogs<br><br>
 
