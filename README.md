@@ -4,7 +4,7 @@ Meu nome é Gabrieli Martins, tenho 22 anos sou apaixonada por front-end e por t
 :man_technologist:
 Sou estudante de Gestão de Tecnologia da Informação pela FATEC. <br>
 Atualmente estou numa jornada na Visie
-onde sou desenvolvedora Full Stack.
+onde sou desenvolvedora React Native e Tester.
 
 <br><br>
 
@@ -13,7 +13,7 @@ onde sou desenvolvedora Full Stack.
 :vulcan_salute: Sou nerd desde que me entendo por gente **Que a força esteja com você**<br>
 :joystick: Amo jogos. Atualmente os meus preferidos são Overwatch e Watch Dogs<br><br>
 
-:star:Também posso te auxiliar em UX & UI
+:star:Também posso te auxiliar em UX & UI <br>
 :star:Também posso te auxiliar em SOLID e Clean Code
 
 
