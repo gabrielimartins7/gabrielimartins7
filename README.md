@@ -1,6 +1,6 @@
 ## Gabrieli Martins  :wave:
 <br>
-Meu nome é Gabrieli Martins, tenho 22 anos sou apaixonada por front-end e por todo o universo da tecnologia. <br>
+Meu nome é Gabrieli Martins, tenho 23 anos sou apaixonada por front-end e por todo o universo da tecnologia. <br>
 :man_technologist:
 Sou estudante de Gestão de Tecnologia da Informação pela FATEC. <br>
 Atualmente estou numa jornada na Visie
