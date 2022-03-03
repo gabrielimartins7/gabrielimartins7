@@ -8,12 +8,13 @@ onde sou desenvolvedora Full Stack.
 
 <br><br>
 
-:pushpin: Atualmente estou aprofundando meu conhecimento em **ReactJs** e **React Native**<br>
-:neckbeard: Me arriscando na aprendizagem em **NodeJs e Angular**<br>
+:pushpin: Atualmente estou aprofundando meu conhecimento em **React Native** e **QA**<br>
+:neckbeard: Me arriscando na aprendizagem em **Locust.io e Selenium**<br>
 :vulcan_salute: Sou nerd desde que me entendo por gente **Que a força esteja com você**<br>
 :joystick: Amo jogos. Atualmente os meus preferidos são Overwatch e Watch Dogs<br><br>
 
 :star:Também posso te auxiliar em UX & UI
+:star:Também posso te auxiliar em SOLID e Clean Code
 
 
 <br><br>
