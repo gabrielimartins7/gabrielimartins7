@@ -1,23 +1,28 @@
-## Gabrieli Martins  :wave:
-<br>
-Meu nome é Gabrieli Martins, tenho 23 anos sou apaixonada por front-end e por todo o universo da tecnologia. <br>
-:man_technologist:
-Sou estudante de Gestão de Tecnologia da Informação pela FATEC. <br>
-Atualmente estou numa jornada na Visie
-onde sou desenvolvedora React Native e Tester.
+### Hello Word. 📲🌎
 
-<br><br>
+#
 
-:pushpin: Atualmente estou aprofundando meu conhecimento em **React Native** e **QA**<br>
-:neckbeard: Me arriscando na aprendizagem em **Locust.io e Selenium**<br>
-:vulcan_salute: Sou nerd desde que me entendo por gente **Que a força esteja com você**<br>
-:joystick: Amo jogos. Atualmente os meus preferidos são Overwatch e Watch Dogs<br><br>
+Olá! Obrigado pela visita. Meu nome é Gabrieli Martins e tenho 23 anos de idade, e vou contar um pouco da minha história. Sou estudante de Gestão de Tecnologia da Informação pela Faculdade de Tecnologia de Guaratinguetá (FATEC). Atualmente trabalho como desenvolvedora mobile na empresa MaisTODOS.
 
-:star:Também posso te auxiliar em UX & UI <br>
-:star:Também posso te auxiliar em SOLID e Clean Code
+#
+
+<div align="center">
+  <a href="https://github.com/gabrielimartins7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielimartins7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielimartins7&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div align="center"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div> 
+
+#
 
 
-<br><br>
 #### Para mais informações entre em contato comigo:
-[![Gmail Badge](https://img.shields.io/badge/-martins.gabrieli.07.almeida@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martins.gabrieli.07.almeida@gmail.com)](mailto:martins.gabrieli.07.almeida@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Gabrieli%20Martins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieli-martins-9881ab157/)](https://www.linkedin.com/in/gabrieli-martins-9881ab157/) 
+<a href = "mailto:martins.gabrieli.07.almeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabrielimartins7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
