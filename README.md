@@ -2,7 +2,7 @@
 
 #
 
-Olá! Obrigado pela visita. Meu nome é Gabrieli Martins e tenho 23 anos de idade. Sou estudante de Gestão de Tecnologia da Informação pela Faculdade de Tecnologia de Guaratinguetá (FATEC). Atualmente trabalho como desenvolvedora mobile na empresa MaisTODOS.
+Olá! Obrigado pela visita. Meu nome é Gabrieli Martins e tenho 24 anos de idade. Sou estudante de Gestão de Tecnologia da Informação pela Faculdade de Tecnologia de Guaratinguetá (FATEC), sou apaixonada por tecnologia. Atualmente trabalho como desenvolvedora mobile na empresa MaisTODOS. 
 
 #
 
