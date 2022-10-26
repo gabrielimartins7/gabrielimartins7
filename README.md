@@ -4,7 +4,7 @@
 
 <p align="left"> 
   Olá! Obrigado pela visita. Meu nome é Gabrieli Martins e tenho 24 anos de idade e sou <strong>Dev Mobile</strong>.<br>
-  Sou Estudando de Gestão de Tecnologia da Informação pela FATEC, atualmente faço parte da equipe da MaisTodos atuando como Desenvolvedora Mobile.
+  Sou Estudando de Gestão de Tecnologia da Informação pela FATEC, atualmente faço parte do time da DNC atuando como Desenvolvedora Front-end.
 </p>
 
 <p align="left">
