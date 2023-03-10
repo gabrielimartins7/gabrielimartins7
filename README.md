@@ -27,6 +27,16 @@
 
 #
 
+<div align="center">
+ 
+  <a href="https://github.com/gabrielimartins7">
+  <a href="https://github.com/gabrielimartins7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielimartins7&show_icons=true&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielimartins7&layout=compact&langs_count=7&theme=cobalt&hide_border=true"/>
+</div>
+
+#
+
 <h3 align="center">Para entrar em contato</h3>
 
 <p align="center">
@@ -41,17 +51,3 @@
 
 
 #
-
-<div align="center">
- 
-  <a href="https://github.com/gabrielimartins7">
-  <a href="https://github.com/gabrielimartins7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielimartins7&show_icons=true&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielimartins7&layout=compact&langs_count=7&theme=cobalt&hide_border=true"/>
-</div>
-
-
-
-
-#
-
