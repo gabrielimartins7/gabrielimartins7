@@ -3,8 +3,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="400px" width="350px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá! Obrigado pela visita. Meu nome é Gabrieli Martins e tenho 24 anos de idade e sou <strong>Mobile Developer</strong> na Housi.<br>
-  Tenho me desenvolvido mais nos ultimos tempos, tenho me empenhado bastante no aprendizado das linguagens <strong>ReactJs, VueJs e NojeJs</strong>.<br>
+  Olá! Obrigado pela visita. Meu nome é Gabrieli Martins e tenho 25 anos de idade e sou <strong>Mobile Developer</strong> na Housi.<br>
+  Tenho me desenvolvido mais nos ultimos tempos, tenho me empenhado bastante no aprendizado das linguagens <strong>React Native, ReactJs, VueJs e NojeJs</strong>.<br>
+  Além disso também posso ajudar com <strongg>UX&UI e acessibilidade</strongg>strong>.
   Amo estudar por esse motivo me desafio constantemente, além disso me agrada muito poder ajudar as pessoas a minha volta com o conhecimento que tenho.<br>
   No meu tempo livre amo viajar e conhecer a culinária de cada região do Brasil, também leio bastante e em um futuro próximo pretendo me dedicar a aprender a cozinhar.
 </p>
