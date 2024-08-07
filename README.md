@@ -14,7 +14,7 @@
 <br><br>
 
 <p align="left"> 
-  Olá! Obrigado pela visita. Meu nome é Gabrieli Martins e tenho 25 anos de idade e sou <strong>Front-end Developer</strong> na db server.<br>
+  Olá! Obrigado pela visita. Meu nome é Gabrieli Martins e tenho 25 anos de idade e sou <strong>Mobile Developer</strong> na UOU Live.<br>
   Tenho me desenvolvido mais nos ultimos tempos, tenho me empenhado bastante no aprendizado das linguagens <strong>React Native, ReactJs, VueJs e NojeJs</strong>.<br>
   Além disso também posso ajudar com <strong>UX&UI, design, marketing e acessibilidade</strong>.
   Amo estudar por esse motivo me desafio constantemente, me agrada muito poder ajudar as pessoas a minha volta com o conhecimento que tenho.<br>
