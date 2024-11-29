@@ -3,13 +3,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="400px" width="350px" align="right" alt="Computador iuriCode">
 
 <div align="center"> 
-  <img align="left" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="left" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="left" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="left" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="left" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="left" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="left" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="left" height="25" src="https://skillicons.dev/icons?i=react" />
+  <img align="left" height="25" src="https://skillicons.dev/icons?i=kotlin" />
+  <img align="left" height="25" src="https://skillicons.dev/icons?i=nodejs" />
+  <img align="left" height="25" src="https://skillicons.dev/icons?i=ts" />
+  <img align="left" height="25" src="https://skillicons.dev/icons?i=js" />
+  <img align="left" height="25" src="https://skillicons.dev/icons?i=vue" />
+  <img align="left" height="25" src="https://skillicons.dev/icons?i=tailwind" />
 </div>
 <br><br>
 
