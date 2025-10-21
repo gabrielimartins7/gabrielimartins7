@@ -9,7 +9,7 @@
 
 <div align="left">
   <p>
-    Sou uma desenvolvedora mobile com 26 anos, apaixonada por tecnologia e inovação. Tenho me dedicado intensamente ao <strong>React Native</strong>, <strong>React.js</strong> e <strong>Kotlin</strong>, e estou constantemente em busca de novos desafios que me façam crescer pessoal e profissionalmente.
+    Sou uma desenvolvedora mobile com 27 anos, apaixonada por tecnologia e inovação. Tenho me dedicado intensamente ao <strong>React Native</strong>, <strong>React.js</strong> e <strong>Kotlin</strong>, e estou constantemente em busca de novos desafios que me façam crescer pessoal e profissionalmente.
   </p>
   <p>
     Além disso, possuo experiência em <strong>UX/UI Design</strong>, <strong>marketing digital</strong> e <strong>acessibilidade</strong>. Amo aprender, compartilhar conhecimento e usar a tecnologia como uma ferramenta para transformar ideias em soluções criativas.
